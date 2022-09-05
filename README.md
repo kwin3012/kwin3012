@@ -24,9 +24,9 @@ I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in Che
 
 ### Coding Profiles ✍🏻
 - <a href="https://codeforces.com/profile/kwin"><img  alt="Kevin's Codeforces" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/codeforces.png" />&nbsp; Codeforces</a>
-- <a href="https://www.codechef.com/users/kwin301201"><img  alt="Kevin's Codechef" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/codechef.png" />&nbsp; Codeforces</a>
-- <a href="https://leetcode.com/k__p/"><img  alt="Kevin's leetcode" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/leetcode.png" />&nbsp; Codeforces</a>
-- <a href="https://www.hackerrank.com/kevinpatel301201"><img  alt="Kevin's Hackerrank" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/hackerrank.png" />&nbsp; Codeforces</a>
+- <a href="https://www.codechef.com/users/kwin301201"><img  alt="Kevin's Codechef" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/codechef.png" />&nbsp; CodeChef</a>
+- <a href="https://leetcode.com/k__p/"><img  alt="Kevin's leetcode" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/leetcode.png" />&nbsp; Leetcode</a>
+- <a href="https://www.hackerrank.com/kevinpatel301201"><img  alt="Kevin's Hackerrank" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/hackerrank.png" />&nbsp; HackerRank</a>
 
 
 
