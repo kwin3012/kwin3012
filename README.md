@@ -8,7 +8,7 @@
 
 I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in Chemical Science and Technology. 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/kwin3012/kwin3012/blob/main/icons/coder.gif" />
 
 ### Talking about Personal Stuffs:
 - 🔭 &nbsp; I recently completed my 8-weeks software development internship with [**Cisco**](http://www.cisco.com/).
@@ -24,6 +24,10 @@ I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in Che
 
 ### Coding Profiles ✍🏻
 - <a href="https://codeforces.com/profile/kwin"><img  alt="Kevin's Codeforces" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/codeforces.png" />&nbsp; Codeforces</a>
+- <a href="https://www.codechef.com/users/kwin301201"><img  alt="Kevin's Codechef" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/codechef.png" />&nbsp; Codeforces</a>
+- <a href="https://leetcode.com/k__p/"><img  alt="Kevin's leetcode" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/leetcode.png" />&nbsp; Codeforces</a>
+- <a href="https://www.hackerrank.com/kevinpatel301201"><img  alt="Kevin's Hackerrank" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/hackerrank.png" />&nbsp; Codeforces</a>
+
 
 
  
