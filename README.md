@@ -23,7 +23,7 @@ I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in Che
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Coding Profiles ✍🏻
-- <a href="https://codeforces.com/profile/kwin"><img  alt="Kevin's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.10.0/icons/codeforces.svg" />&nbsp; Codeforces</a>
+- <a href="https://codeforces.com/profile/kwin"><img  alt="Kevin's Codeforces" width="22px" src="https://github.com/kwin3012/kwin3012/blob/main/icons/codeforces.png" />&nbsp; Codeforces</a>
 
 
  
